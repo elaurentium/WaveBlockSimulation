@@ -6,5 +6,5 @@
   </p>
   <hr style="width:50%;text-align:left;margin-left:0">
   <h3>Program running</h3>
-  <img src="" alt="WaveSimulationImg"/>
+  <img src="img.png" alt="WaveSimulationImg"/>
 </main>
